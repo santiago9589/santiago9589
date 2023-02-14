@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Santiago</h1>
-<h3 align="center">Soy desarrollador frontEnd con 1 año de experiencia en proyectos personales</h3>
+<h3 align="center">Soy desarrollador front End con 1 año de experiencia en proyectos personales</h3>
 
 - 🌱 Estoy cursando **Tecnicatura de desarrollo de software**
 
