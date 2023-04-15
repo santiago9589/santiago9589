@@ -5,7 +5,7 @@
 
 - 💬 Consultame con respecto **HTML,CSS,REACT,JEST,MOTION,NEXT.JS**
 
-- 📫 How to reach me **santiagoparra346@gmail.com**
+- 📫 How to reach me **santiagodejesus587@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
