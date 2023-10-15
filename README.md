@@ -3,7 +3,7 @@
 
 - 🌱 Estoy cursando **Tecnicatura de desarrollo de software**
 
-- 💬 Tecnologias conocidas **HTML,CSS,REACT,JEST,MOTION,NEXT.JS,TAILWINCSS,PRISMA,MONGODB,MOONGOSE,NODE**
+- 💬 Tecnologias conocidas **HTML,CSS,REACT,JEST,MOTION,NEXT.JS,TAILWINDCSS,PRISMA,MONGODB,MOONGOSE,NODE**
 
 - 📫 How to reach me **santiagodejesus587@gmail.com**
 
